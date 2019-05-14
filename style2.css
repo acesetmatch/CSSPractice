@@ -1,0 +1,24 @@
+h2 {
+  color: blue;
+}
+
+/* .boxmodel {
+  border: 5px solid red;
+  display: inline-block;
+  padding: 5px 20px;
+  margin: 0px 20px;
+  width: 33px;
+  height: 55px;
+} */
+
+p {
+  font-size: 20px;
+}
+/*
+5em is 20 px * 5 = 100 px
+rem is the multiplier in relation to the root element (html tag)
+*/
+
+span {
+  font-size: 2rem;
+}
